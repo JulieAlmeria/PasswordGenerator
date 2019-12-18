@@ -5,4 +5,4 @@ This application takes user input (number of characters, and whether they would 
 <h1>Installation Instructions</h1>
 <p>No installation required! Simply navigate to the following url to view: https://juliealmeria.github.io/PasswordGenerator/ </p>
 <h1>Screenshot of Application</h1>
-<img src=
+<img src="PGScreenshot2.png" alt="Screenshot">
